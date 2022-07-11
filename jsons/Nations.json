@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Horizon",
+    "leaderName": "Aam",
+    "adjective": ["Horizon"],
+    "startBias": ["Mountain"],
+    "preferredVictoryType": "Domination",
+    
+    "declaringWar": "HAHAHAHA waktunya untukmu hancur",
+    "attacked": "bukankah sudah kubilang untuk menyiapkan kuburan untuk pasukanmu HAHAHAHA",
+    "defeated": "ini bukanlah akhir, aku tidak akan melepaskanmu saat ku buat negaraku lagi. kabur",
+    "introduction": "di atas langit masih ada langit, lihatlah kemari dan kau akan melihat ujung dari kekuatan",
+    "neutralHello": "haloo",
+    "hateHello": ".",
+    "tradeRequest": "ini adalah penawaran yang sangat bagus dari negaraku yang terkuat, terimalah dan jadilah lebih kuat",
+    "outerColor": [2,79,80],
+    "innerColor": [243,245,249],
+    "uniqueName": "yang terkuat"
+    "uniques": [
+"New [All] units start with [10000] Experience [in all cities]",
+"[+1000]% Production when constructing [All] buildings [in all cities]",
+"[+1000]% Production when constructing [All] units [in all cities]",
+"[+1000]% Production when constructing [All] wonders [in all cities]",
+"[+20 Culture] [in all cities]",
+"[+5 Science] [in all cities]",
+"[+70]% Strength <for [All] units>",
+"[+1 Happiness] form every [Farm]",
+"[+5] Movement <for [All] units>",
+],
+    "cities": ["good game","kacang goreng","Raigen Club"]
+  }
+]
